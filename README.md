@@ -1,6 +1,6 @@
 # inkryptVideos-decrypt
 The web endpoint only allows Chrome CDMs, so I had to use the Android one which allows any kind of Android device (even AOSP Emulators). \
-The Android endpoint's payload is encrypted by simple AES-256-CBC.
+The Android endpoint's payload is encrypted using simple AES-256-CBC.
 
 
 # Installation
